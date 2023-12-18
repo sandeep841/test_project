@@ -2,4 +2,4 @@
 <br>
 test project for git tutorials.
 <br>
-Author-  sandeep
+Author-  konur sandeep
